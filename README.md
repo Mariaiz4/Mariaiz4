@@ -3,7 +3,7 @@
 
 - 🔭 Trabalho com frontEnd
 - 🌱 Estudando BackEnd
-- ⚡ Em horas vagas eu sou ilustradora
+- 🖼️Também sou UX/UI Designer
 
 <div style="display: inline_block"><br>
 
